@@ -1,4 +1,5 @@
-# c# hahahalib
+# c# hahahaUIlib
+附加包，不屬核心(效能考量)
 
 方針 : 
 1. 上班用
