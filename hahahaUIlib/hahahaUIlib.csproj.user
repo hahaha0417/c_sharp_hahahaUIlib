@@ -2,6 +2,9 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="skiasharp\SK_Control.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Update="tab_controll\Tab_Controll_Base.cs">
       <SubType>Component</SubType>
     </Compile>
